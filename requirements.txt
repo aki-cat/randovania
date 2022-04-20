@@ -169,7 +169,7 @@ pillow==9.1.0
     # via
     #   matplotlib
     #   randovania (setup.py)
-pluggy==0.13.1
+pluggy==1.0.0
     # via pytest
 prometheus-client==0.14.1
     # via prometheus-flask-exporter
