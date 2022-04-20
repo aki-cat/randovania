@@ -6,7 +6,7 @@
 #
 aiofiles==0.8.0
     # via randovania (setup.py)
-aiohttp==3.7.4.post0
+aiohttp==3.8.1
     # via
     #   discord-py
     #   discord-py-interactions
